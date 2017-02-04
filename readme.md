@@ -33,6 +33,9 @@
 ## git checkout имя ветки
 Перейти на имеющуюся ветку, например git checkout master
 
+## git branch
+Отобразить имеющиеся ветки
+
 ## git branch -D имя ветки
 Удалить указанную ветку, например git branch -D test
 
